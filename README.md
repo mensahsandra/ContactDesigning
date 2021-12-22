@@ -1,2 +1,2 @@
 # ContactDesigning
-Contact designing and creating using Fig.
+Contact designing and creating using Figma.
